@@ -17,4 +17,4 @@ VALUES
 
 .header on
 .mode columns 
-SELECT * FROM employee
+SELECT * FROM employee;
